@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ejActividades</string>
+    <string name="entrada">Entrada de Datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="enviar">Enviar</string>
+    <string name="datosrecibidos">Datos Recibidos</string>
+    <string name="rnombre">Nombre</string>
+    <string name="rTelefono">Telefono</string>
+    <string name="abrir">Abrir</string>
+    <string name="recepcion">Recepcion</string>
+</resources>
